@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
-#
-# JWT_Tool version 1.3.3 (28_04_2020)
-# Written by ticarpi
+# Written by ja0k
 # Please use responsibly...
-# Software URL: https://github.com/ticarpi/jwt_tool
-# Web: https://www.ticarpi.com
-# Twitter: @ticarpi
-#
+# Software URL: https://github.com/SecurityCN/JsonWebToken-Tools
+# Web: https://www.ja0k.com
+
 
 import sys
 import hashlib
