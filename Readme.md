@@ -1,7 +1,7 @@
 JsonWebToken-Tools
 
 ## jwt2john.py
-JWT to jogn 
+JWT to john 
 
 ## jwt-crack.py
 JWT Signature Crack
